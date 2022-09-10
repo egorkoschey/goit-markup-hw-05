@@ -275,9 +275,9 @@ ul {
     position: absolute;
     font-weight: 700;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     text-align: center;
-    letter-spacing: 1.14;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--header-color-bg);
     background: rgba(47, 48, 58, 0.8);
